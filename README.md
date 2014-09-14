@@ -12,5 +12,3 @@ Not required for Project 1.
 Plugin/Libraries/Pages/Outside Code Used
 ========================================
 Bootstrap Carousel Components
-Laravel
-Composer
